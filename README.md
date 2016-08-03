@@ -1,6 +1,6 @@
 # RodyAIbiza
 
-Bonjour Rody, voici la build la plus récente que nous avons.
+Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer
 
 ### Installation 
 
@@ -8,7 +8,11 @@ Bonjour Rody, voici la build la plus récente que nous avons.
 Tu trouveras un bouton **Clone or Download** en haut à droite de ce readMe. Clique dessus puis sur **Download ZIP** pour télécharger l'archive du jeu.
 
 #### Lancement 
-Une fois l'archive extraite quelque part, tu trouveras un fichier **RodyAIbiza_v0.0a1** et il suffit de le lancer.
+Une fois l'archive extraite quelque part, tu trouveras un fichier **RodyAIbiza_v0.0a1.exe** et il suffit de le lancer.
+ 
+ *Pour linux :*
+* `chmod +x "RodyLinuxBuild.x86"`
+* `./RodyLinuxBuild.x86`
  
 :warning: Windows risque de t'indiquer qu'il tente d'éxecuter une application dangereuse, tu peux alors cliquer sur **Plus d'info** pour pouvoir lancer le jeu.
 
@@ -35,6 +39,7 @@ Le contenu du jeu en est actuellement à :
 * Arrivé à la fin de la scène, elle se relance en boucle. 
 
 ### Bugs et retours
-Tu trouveras [ici](https://github.com/LaCreArthur/RodyAIbiza/issues) une session dédiée aux bugs où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
+Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
 
 Indique-nous aussi tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
+Chaque Rody qui le souhaite peut nous envoyer un rapport @ lacrearthur@gmail.com
