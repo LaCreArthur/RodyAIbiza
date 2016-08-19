@@ -2,6 +2,10 @@
 
 Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer
 
+>**MAJ** : Tu peux soit **installer** le jeu, soit y jouer directement sur le web avec cette adresse :
+[cdn.rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html](https://cdn.rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html)
+
+
 ### Installation 
 
 #### Téléchargement
