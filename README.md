@@ -6,6 +6,11 @@ Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à d
 [https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html](https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html)
 
 
+### Bugs et retours
+Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
+
+Indique-nous aussi tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
+
 ### Installation 
 
 #### Téléchargement
@@ -42,8 +47,3 @@ Le contenu du jeu en est actuellement à :
 * Le bouton draw n'est pas actif 
 * Arrivé à la fin de la scène, elle se relance en boucle. 
 
-### Bugs et retours
-Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
-
-Indique-nous aussi tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
-Chaque Rody qui le souhaite peut nous envoyer un rapport @ lacrearthur@gmail.com
