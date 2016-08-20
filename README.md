@@ -9,7 +9,20 @@ Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à d
 ### Bugs et retours
 Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
 
-Indique-nous aussi tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
+Indique-nous tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
+
+### Le synthétiseur
+il fonctionne par un système de phonèmes mis bout à bout [(plus d'info ici)](http://www.rocketbox.fr/synthese-vocale-en-1987-comment-faisaient/), 
+
+chaque phonème a été enregistré à partir des jeux Rody & Mastico originaux, 
+
+chaque phonème peut donc être réenregistré s'il n'a pas été bien découpé.
+
+Voici la liste des phonèmes
+![Liste des phonèmes](/
+synthese_vocale_1.jpg)
+
+J'améliorerais petit à petit chaque phonème et posterais des mises à jour jusqu'à l'obtention d'un dialogue fluide et identique aux originaux.
 
 ### Installation 
 > :warning: builds windows et linux pas à jour, seulement la webGL l'est pour l'instant ! 
