@@ -18,9 +18,8 @@ chaque phonème a été enregistré à partir des jeux Rody & Mastico originaux,
 
 chaque phonème peut donc être réenregistré s'il n'a pas été bien découpé.
 
-Voici la liste des phonèmes
-![Liste des phonèmes](/
-synthese_vocale_1.jpg)
+Voici la 
+![liste des phonèmes](/synthese_vocale_1.jpg)
 
 J'améliorerais petit à petit chaque phonème et posterais des mises à jour jusqu'à l'obtention d'un dialogue fluide et identique aux originaux.
 
