@@ -11,7 +11,7 @@ Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/Rody
 
 Indique-nous aussi tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
 
-### Installation 
+### Installation :warning: pas à jour !
 
 #### Téléchargement
 Tu trouveras un bouton **Clone or Download** en haut à droite de ce readMe. Clique dessus puis sur **Download ZIP** pour télécharger l'archive du jeu.
