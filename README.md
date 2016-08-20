@@ -11,7 +11,8 @@ Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/Rody
 
 Indique-nous aussi tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
 
-### Installation :warning: pas à jour !
+### Installation 
+> :warning: builds windows et linux pas à jour, seulement la webGL l'est pour l'instant ! 
 
 #### Téléchargement
 Tu trouveras un bouton **Clone or Download** en haut à droite de ce readMe. Clique dessus puis sur **Download ZIP** pour télécharger l'archive du jeu.
