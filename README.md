@@ -7,9 +7,12 @@ Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à d
 
 
 ### Bugs et retours
+
 Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
 
 Indique-nous tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
+
+*Bug connu : Dans la version webGL, chez moi (w10 + firefox 48), la phrase du père de Rody à la 1ère scène commence trop tot, je sais pas pourquoi...*
 
 ### Le synthétiseur
 il fonctionne par un système de phonèmes mis bout à bout [(plus d'info ici)](http://www.rocketbox.fr/synthese-vocale-en-1987-comment-faisaient/), 
