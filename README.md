@@ -1,8 +1,10 @@
 # RodyAIbiza
 
-Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer
+Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer.
 
->**MAJ** : Tu peux soit **installer** le jeu, soit y jouer directement sur le web avec cette adresse :
+**Cette beta ne contient que deux scènes démo qui ne feront pas partis du jeu :)**
+
+>**MAJ** : Joue directement sur le web avec cette adresse :
 [https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html](https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html)
 
 
@@ -53,7 +55,7 @@ Le contenu du jeu en est actuellement à :
  
 1. Un écran de titre où l'**on doit attendre** la fin de la musique pour passer au menu
 2. Un menu
-3. Une scène de test
+3. Deux scènes de test
 
 #### Le menu
 1. En haut, il y a 4 grands bouttons pour choisir entre le mode entre *normal*, *dessin*, *ecran titre*, et le dernier pour valider le choix
