@@ -2,9 +2,9 @@
 
 Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer.
 
-**Cette beta ne contient que deux scènes démo qui ne feront pas partis du jeu :)**
+**SPOIL ALERT : Cette beta ne contient que deux scènes démo qui ne feront pas partis du jeu :)**
 
->**MAJ** : Joue directement sur le web avec cette adresse :
+>**BETA TEST** : Joue directement sur le web avec cette adresse :
 [https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html](https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html)
 
 
@@ -30,22 +30,8 @@ Voici la liste des phonèmes
 
 J'améliorerais petit à petit chaque phonème et posterais des mises à jour jusqu'à l'obtention d'un dialogue fluide et identique aux originaux.
 
-### Installation 
-> :warning: builds windows et linux pas à jour, seulement la webGL l'est pour l'instant ! 
-
-#### Téléchargement
-Tu trouveras un bouton **Clone or Download** en haut à droite de ce readMe. Clique dessus puis sur **Download ZIP** pour télécharger l'archive du jeu.
-
-#### Lancement 
-Une fois l'archive extraite quelque part, tu trouveras un fichier **RodyAIbiza_v0.0a1.exe** et il suffit de le lancer.
- 
- *Pour linux :*
-* `chmod +x "RodyLinuxBuild.x86"`
-* `./RodyLinuxBuild.x86`
- 
-:warning: Windows risque de t'indiquer qu'il tente d'éxecuter une application dangereuse, tu peux alors cliquer sur **Plus d'info** pour pouvoir lancer le jeu.
-
 ### Jouer
+Pour ceux qui ne connaissent pas du tout Rody & Mastico ...
 
 #### configuration 
 Un menu de configuration s'affiche en premier lieu. Tu peux y choisir ta résolution d'écran favorite, le reste n'est pas utile.
