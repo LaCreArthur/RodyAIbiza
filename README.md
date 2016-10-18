@@ -1,5 +1,19 @@
 # Rody A Ibiza aka Rody et Mastico 7
 
+<!-- icons with padding -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter link)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook link)
+[3.1]: http://i.imgur.com/0o48UoR.png (github link)
+
+[1]: https://twitter.com/LaCreArthur
+[2]: https://www.facebook.com/lacrearthur
+[3]: https://github.com/LaCreArthur/RodyAIbiza/
+
 Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer.
 
 **SPOIL ALERT : Cette beta ne contient que deux scènes démo qui ne feront pas partis du jeu :)**
