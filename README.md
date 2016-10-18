@@ -25,6 +25,10 @@ Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à d
 [https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html](https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html)
 
 
+### Tous les bails sont expliqués ici si tu ne veux pas lire la suite de ce README: 
+[![Rody Dev Vlog](http://img.youtube.com/vi/TsfJgv9h_Yo/0.jpg)](https://www.youtube.com/watch?v=TsfJgv9h_Yo "Rody dev Vlog")
+
+
 ### Bugs et retours
 
 Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
