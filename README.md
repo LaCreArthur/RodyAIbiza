@@ -1,4 +1,4 @@
-# RodyAIbiza
+# Rody A Ibiza aka Rody et Mastico 7
 
 Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition afin d'avoir des retours d'experience pour que nous puissions l'améliorer.
 
@@ -13,6 +13,7 @@ Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à d
 Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
 
 Indique-nous tes remarques concernant le synthétiseur pour que nous puissions continuer à l'améliorer ! :purple_heart:
+Tu peux aussi nous contacter sur [twitter](https://twitter.com/LaCreArthur) et [Facebook] (https://www.facebook.com/lacrearthur/?ref=aymt_homepage_panel)
 
 *Bug connu : Dans la version webGL, chez moi (w10 + firefox 48), la phrase du père de Rody à la 1ère scène commence trop tot, je sais pas pourquoi...*
 
