@@ -19,9 +19,6 @@
 
 Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition gratuitement. Si tu veux soutenir le projet et nous remercier, tu peux faire une [donation](https://www.paypal.me/LaCreArthur)
 
-Joue directement sur le web avec cette adresse :
-[https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html](https://rawgit.com/LaCreArthur/RodyAIbiza/master/WebGLPLayer/index.html)
-
  :warning: Bug connu : Dans la version webGL, La musique commence alors que la scène n'a pas finit de "charger"
 
 ### Bugs et retours
