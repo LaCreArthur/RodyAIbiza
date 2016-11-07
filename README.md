@@ -24,10 +24,6 @@ Joue directement sur le web avec cette adresse :
 
  :warning: *Bug connu : Dans la version webGL, La musique commence alors que la scène n'a pas finit de "charger"*
 
-### Tous les bails sont expliqués ici si tu ne veux pas lire la suite de ce README: 
-[![Rody Dev Vlog](http://img.youtube.com/vi/TsfJgv9h_Yo/0.jpg)](https://www.youtube.com/watch?v=TsfJgv9h_Yo "Rody dev Vlog")
-
-
 ### Bugs et retours
 
 Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
@@ -46,4 +42,7 @@ Voici la liste des phonèmes
 
 Vous pouvez me faire des retour et suggestions pour l'ameliorer :)
 
+
+### J'ai fais un Vlog du développement sur ma page youtube : 
+[![Rody Dev Vlog](http://img.youtube.com/vi/TsfJgv9h_Yo/0.jpg)](https://www.youtube.com/watch?v=TsfJgv9h_Yo "Rody dev Vlog")
 
