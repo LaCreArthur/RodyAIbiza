@@ -10,7 +10,7 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter link)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook link)
 [3.1]: http://i.imgur.com/0o48UoR.png (github link)
-[4.1]: http://i.imgur.com/bifRRBk.png (youtube link)
+[4.1]: http://i.imgur.com/sha7fAu.png (youtube link)
 
 [1]: https://twitter.com/LaCreArthur
 [2]: https://www.facebook.com/lacrearthur
