@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | RodyAIbiza</title>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico" />
+    <script src="TemplateData/UnityProgress.js"></script>
+  </head>
+  <body class="template">
+    <p class="header"><span>Unity WebGL Player | </span>RodyAIbiza</p>
+    <div class="template-wrap clear">
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="800px" width="1280px"></canvas>
+      <br>
+      <div class="logo"></div>
+      <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
+      <div class="title">RodyAIbiza</div>
+    </div>
+
+    <p style="margin-left:20px;">
+      <strong> Bonjour Rody, voici la build la plus récente du synthétiseur que nous avons. Elle est mise à disposition gratuitement. Si tu veux soutenir le projet et nous remercier, tu peux faire une donation ici -> </strong>  <a href="https://www.paypal.me/LaCreArthur">https://www.paypal.me/LaCreArthur</a> 
+    </p>
+
+      <a href="https://lacrearthur.github.io/RodyAIbiza/" class="btn">Home</a>
+
+    <p class="footer">&laquo; created with <a href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;</p>
+    <script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 536870912,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    dataUrl: "Release/synthWeb.data",
+    codeUrl: "Release/synthWeb.js",
+    memUrl: "Release/synthWeb.mem",
+    
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+
+  </body>
+</html>
