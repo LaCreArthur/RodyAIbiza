@@ -19,21 +19,16 @@
 
 Bonjour Rody, voici la build la plus récente que nous avons. Elle est mise à disposition gratuitement. Si tu veux soutenir le projet et nous remercier, tu peux faire une [donation](https://www.paypal.me/LaCreArthur)
 
- :warning: Bug connu : Dans la version webGL, La musique commence alors que la scène n'a pas finit de "charger"
-
 ### Bugs et retours
 
 Tu trouveras une [session dédiée aux bugs](https://github.com/LaCreArthur/RodyAIbiza/issues) où tu peux poster des billets pour les bugs que tu as trouvés, merci d'avance pour tes retours ! 
 
-Tu peux aussi nous contacter sur [twitter](https://twitter.com/LaCreArthur) et [Facebook] (https://www.facebook.com/lacrearthur/?ref=aymt_homepage_panel)
+Tu peux aussi nous contacter sur [twitter](https://twitter.com/LaCreArthur) et [Facebook](https://www.facebook.com/lacrearthur/)
 
 ### Le synthétiseur
 il fonctionne par un système de phonèmes mis bout à bout [(plus d'info ici)](http://www.rocketbox.fr/synthese-vocale-en-1987-comment-faisaient/), 
 
-chaque phonème a été enregistré à partir des jeux Rody & Mastico originaux, 
-
-Voici la liste des phonèmes
-
+Voici la liste des phonèmes (enregistré à partir des jeux Rody & Mastico originaux): 
 
 ![liste des phonèmes](/synthese_vocale_1.jpg)
 
@@ -43,3 +38,5 @@ Vous pouvez me faire des retour et suggestions pour l'ameliorer :)
 ### J'ai fais un Vlog du développement sur ma page youtube : 
 [![Rody Dev Vlog](http://img.youtube.com/vi/TsfJgv9h_Yo/0.jpg)](https://www.youtube.com/watch?v=TsfJgv9h_Yo "Rody dev Vlog")
 
+### Le jeu à été joué par Benzaie sur sa chaine BenzaieLive : 
+[![Le Jeu de la Décennie ? Oh Putain !](http://img.youtube.com/vi/ay_GhAfSVh4/0.jpg)](https://www.youtube.com/watch?v=ay_GhAfSVh4 "Le Jeu de la Décennie ? Oh Putain !")
