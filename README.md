@@ -38,5 +38,5 @@ Vous pouvez me faire des retour et suggestions pour l'ameliorer :)
 ### J'ai fais un Vlog du développement sur ma page youtube : 
 [![Rody Dev Vlog](http://img.youtube.com/vi/TsfJgv9h_Yo/0.jpg)](https://www.youtube.com/watch?v=TsfJgv9h_Yo "Rody dev Vlog")
 
-### Le jeu à été joué par Benzaie sur sa chaine BenzaieLive : 
+### Le jeu a été joué par Benzaie sur sa chaine BenzaieLive : 
 [![Le Jeu de la Décennie ? Oh Putain !](http://img.youtube.com/vi/ay_GhAfSVh4/0.jpg)](https://www.youtube.com/watch?v=ay_GhAfSVh4 "Le Jeu de la Décennie ? Oh Putain !")
