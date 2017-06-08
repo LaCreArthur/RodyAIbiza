@@ -1,3 +1,17 @@
+@font-face { font-family: Rody; src: url('Rody.ttf'); } 
+
+.nav { 
+  font-family: Rody !important; 
+  }
+
+.nav th {
+  border-width: 0px !important;
+}
+
+.nav a {
+  color: rgba(0,0,0,0.5) !important;
+}
+
 * {
   box-sizing: border-box; }
 
@@ -12,8 +26,6 @@ body {
 a {
   color: #1e6bb8;
   text-decoration: none; }
-  a:hover {
-    text-decoration: underline; }
 
 .btn {
   display: inline-block;
