@@ -2,6 +2,9 @@
 
 .nav { 
   font-family: Rody !important; 
+  
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.3); 
   }
 
 .nav th {
@@ -9,8 +12,13 @@
 }
 
 .nav a {
-  color: rgba(0,0,0,0.5) !important;
+  color: rgba(0,0,0,0.8) !important;
 }
+
+.nav th:hover {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.3); }
 
 * {
   box-sizing: border-box; }
